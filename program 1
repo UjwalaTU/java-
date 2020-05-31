@@ -1,0 +1,8 @@
+//Program that accepts two strings as command line arguments
+public class Main
+{
+  public static void main (String[] args)	//Main method
+  {
+    System.out.println (args[0] + " Technologies " + args[1]);
+  }
+}
